@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Studying Computer Science, Mathematics and Physics at A-Level.
+I'm currently learning more Python and Javascript, including database management and web apps.
 <!--
 **axoblockl/axoblockl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
